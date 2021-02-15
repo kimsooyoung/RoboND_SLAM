@@ -9,3 +9,8 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+Lesson 2_MultiSensorFusion/.vscode/c_cpp_properties.json
+Lesson 2_MultiSensorFusion/.vscode/settings.json
+*.json
